@@ -1,0 +1,17 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+.navbar{
+    border: 10px rgb(0, 0, 0) solid;
+    
+    text-align: center;
+    gap: 30px;
+    
+}
+.container-fluid{
+   
+   justify-content: center;
+   margin: 20px;
+}
